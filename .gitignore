@@ -15,7 +15,7 @@ workspace/logs/*
 !workspace/logs/*.jsonl
 !workspace/logs/.gitkeep
 
-.claude
+.claude/*
 
 # Node
 node_modules/
